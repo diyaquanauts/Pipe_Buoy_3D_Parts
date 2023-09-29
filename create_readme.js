@@ -22,7 +22,7 @@ for (const part of parts) {
     readmeContent += `${part.description}<br><sub>**Filename:** ${part.filename}</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
 
     // Adding multiple line breaks as a workaround
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 5; i++) {
         readmeContent += "<br>";
     }
     readmeContent+= "\n";
