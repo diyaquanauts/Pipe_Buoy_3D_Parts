@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Generic Module",
+    "description": "This part is the most generic part of the project. It is used to connect the different modules together. Its platform runs perpendicular to the pipes endcaps. In the hackaday project, this part is used to hold both the batteries. Another instance of the part is used to hold the Raspberry Pi, SSD, and USB Cell Modem.",
+    "image": "./thumbnails/GenericModule.png",
+    "Drawn By": "Brett Smith",
+    "filename": "GenericModule.stl"
+  },
+  {
+    "name": "Raspberry Pi Mounting Adapter",
+    "description": "Because the Raspberry Pi's mounting holes are not in the same place as the generic module, we use this part to mount the Raspberry Pi to the generic bolt pattern found on the module.",
+    "image": "./thumbnails/RaspberryPiMountingAdapter.png",
+    "Drawn By": "Brett Smith",
+    "filename": "RaspberryPiMountingAdapter.stl"
+  },
+  {
+    "name": "Cell Antenna Module",
+    "description": "This module is used to hold the cell antenna. Its platform runs parallel to the pipes endcaps.",
+    "image": "./thumbnails/CellAntennaModule.png",
+    "Drawn By": "Brett Smith",
+    "filename": "CellAntennaModule.stl"
+  },
+  {
+    "name": "SSD And Modem Strap",
+    "description": "This part is used to hold the SSD and USB Cell Modem to the generic module.",
+    "image": "./thumbnails/SSDAndModemStrap.png",
+    "Drawn By": "Brett Smith",
+    "filename": "SSDAndModemStrap.stl"
+  },
+  {
+    "name": "Shorty Strap",
+    "description": "This part is used to hold 2S 'shorty' batteries to the generic module.",
+    "image": "./thumbnails/ShortyStrap.png",
+    "Drawn By": "Brett Smith",
+    "filename": "ShortyStrap.stl"
+  },
+  {
+    "name": "Reef Camera Internal Mount",
+    "description": "Not used for the internals of the pipe buoy, but rather for the reef camera. This part is used to correctly orient the USB Camera inside of the GoPro housing.",
+    "image": "./thumbnails/ReefCameraInternalMount.png",
+    "Drawn By": "Brett Smith",
+    "filename": "ReefCameraInternalMount.stl"
+  }
+]

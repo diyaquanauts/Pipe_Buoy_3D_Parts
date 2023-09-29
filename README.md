@@ -4,32 +4,38 @@ This repository contains all the 3D parts for the Pipe Buoy project.
 Always make sure to pull the latest before starting a new build.  
 
 ## Generic Module
-![Generic Module](./thumbnails/GenericModule.png "Generic Module")    
-This part is the most generic part of the project.   
-It is used to connect the different modules together.  
-Its platform runs perpindicular to the pipes endcaps.  
-In the hackaday project, this part is used to hold both the batteries.  
-Another instance of the part is used to hold the Rapberry Pi, SSD, and USB Cell Modem.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/GenericModule.png" width="250" alt="Generic Module" title="Generic Module"> | This part is the most generic part of the project. It is used to connect the different modules together. Its platform runs perpendicular to the pipes endcaps. In the hackaday project, this part is used to hold both the batteries. Another instance of the part is used to hold the Raspberry Pi, SSD, and USB Cell Modem.<br><sub>**Filename:** GenericModule.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
 ## Raspberry Pi Mounting Adapter
-![Raspberry Pi Mounting Adapter](./thumbnails/RaspberryPiMountingAdapter.png "Raspberry Pi Mounting Adapter")  
-Because the Raspberry Pi's mounting holes are not in the same place as the generic module,
-we use this part to mount the Raspberry Pi to the generic bolt pattern found on the module.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/RaspberryPiMountingAdapter.png" width="250" alt="Raspberry Pi Mounting Adapter" title="Raspberry Pi Mounting Adapter"> | Because the Raspberry Pi's mounting holes are not in the same place as the generic module, we use this part to mount the Raspberry Pi to the generic bolt pattern found on the module.<br><sub>**Filename:** RaspberryPiMountingAdapter.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
 ## Cell Antenna Module
-![Cell Antenna Module](./thumbnails/CellAntennaModule.png)    
-This module is used to hold the cell antenna. Its platform runs parallel to the pipes endcaps.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/CellAntennaModule.png" width="250" alt="Cell Antenna Module" title="Cell Antenna Module"> | This module is used to hold the cell antenna. Its platform runs parallel to the pipes endcaps.<br><sub>**Filename:** CellAntennaModule.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
 ## SSD And Modem Strap
-![SSD And Modem Strap](./thumbnails/SSDAndModemStrap.png)  
-This part is used to hold the SSD and USB Cell Modem to the generic module.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/SSDAndModemStrap.png" width="250" alt="SSD And Modem Strap" title="SSD And Modem Strap"> | This part is used to hold the SSD and USB Cell Modem to the generic module.<br><sub>**Filename:** SSDAndModemStrap.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
 ## Shorty Strap
-![Shorty Strap](./thumbnails/ShortyStrap.png)  
-This part is used to hold 2S "shorty" batteries to the generic module.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/ShortyStrap.png" width="250" alt="Shorty Strap" title="Shorty Strap"> | This part is used to hold 2S 'shorty' batteries to the generic module.<br><sub>**Filename:** ShortyStrap.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
 ## Reef Camera Internal Mount
-![Reef Camera Internal Mount](./thumbnails/ReefCameraInternalMount.png)    
-Not used for the internals of the pipe buoy, but rather for the reef camera.
-This part is used to correctly orient the USB Camera inside of the GoPro housing.
+
+| | |
+|:---:|:---|
+| <img src="./thumbnails/ReefCameraInternalMount.png" width="250" alt="Reef Camera Internal Mount" title="Reef Camera Internal Mount"> | Not used for the internals of the pipe buoy, but rather for the reef camera. This part is used to correctly orient the USB Camera inside of the GoPro housing.<br><sub>**Filename:** ReefCameraInternalMount.stl</sub><br><sub>**Drawn By:** Brett Smith</sub> |
 
