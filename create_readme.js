@@ -18,8 +18,14 @@ const imageWidth = "250";  // width in pixels
 // Generate content for each part and append to README content
 for (const part of parts) {
     readmeContent += `## ${part.name}\n\n`;
-    readmeContent += `| <img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}"> | ${part.description}<br><sub>**Filename:** ${part.filename}</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub> |\n`;
-    readmeContent += "| --- | --- |\n";
+    readmeContent += `<img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}" align="left" style="margin-right:20px">`;
+    readmeContent += `${part.description}<br><sub>**Filename:** ${part.filename}</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
+
+    // Adding multiple line breaks as a workaround
+    for (let i = 0; i < 3; i++) {
+        readmeContent += "<br>";
+    }
+    readmeContent+= "\n";
 }
 
 // Write the generated content to README.md
