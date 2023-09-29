@@ -13,7 +13,7 @@ Always make sure to pull the latest before starting a new build.
 `;
 
 // Define the desired width for all images
-const imageWidth = "250";  // width in pixels
+const imageWidth = "175";  // width in pixels
 
 // Generate content for each part and append to README content
 for (const part of parts) {
@@ -21,7 +21,7 @@ for (const part of parts) {
     readmeContent += `<img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}" align="left" style="margin-right:20px">`;
     readmeContent += `${part.description}<br><sub>**Filename:** <a href="./${part.filename}">${part.filename}</a></sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
     // Adding multiple line breaks as a workaround
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 3; i++) {
         readmeContent += "<br>";
     }
     readmeContent+= "\n";
