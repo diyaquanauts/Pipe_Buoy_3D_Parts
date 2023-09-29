@@ -15,12 +15,12 @@ Always make sure to pull the latest before starting a new build.
 // Define the desired width for all images
 const imageWidth = "250";  // width in pixels
 
-// Generate markdown for each part and append to README content
+// Generate content for each part and append to README content
 for (const part of parts) {
     readmeContent += `## ${part.name}\n\n`;
-    readmeContent += "| | |\n";
-    readmeContent += "|:---:|:---|\n";
-    readmeContent += `| <img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}"> | ${part.description}<br><sub>**Filename:** ${part.filename}</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub> |\n\n`;
+    readmeContent += `<img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}" align="left" style="margin-right:20px">`;
+    readmeContent += `${part.description}<br><sub>**Filename:** ${part.filename}</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
+    readmeContent += "<div style='clear:both'></div>\n\n";
 }
 
 // Write the generated content to README.md
