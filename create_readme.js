@@ -19,7 +19,7 @@ const imageWidth = "250";  // width in pixels
 for (const part of parts) {
     readmeContent += `## ${part.name}\n\n`;
     readmeContent += `<img src="${part.image}" width="${imageWidth}" alt="${part.name}" title="${part.name}" align="left" style="margin-right:20px">`;
-    readmeContent += `${part.description}<br><sub>**Filename:** [<a href="./parts/${part.filename}">${part.filename}</a>]</sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
+    readmeContent += `${part.description}<br><sub>**Filename:** <a href="./${part.filename}">${part.filename}</a></sub><br><sub>**Drawn By:** ${part['Drawn By']}</sub>\n\n`;
     // Adding multiple line breaks as a workaround
     for (let i = 0; i < 5; i++) {
         readmeContent += "<br>";
