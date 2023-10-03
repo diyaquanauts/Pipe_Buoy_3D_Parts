@@ -35,6 +35,13 @@
     "filename": "ShortyStrap.stl"
   },
   {
+    "name": "Sensor Internal Mount",
+    "description": "A small mounting module for the BNO055, BMP280, 2x EZO Isolated Carrier Boards, and a generic AD620 instrumentation amplifier for the hydrophone.",
+    "image": "./thumbnails/SensorMount.png",
+    "Drawn By": "Brett Smith",
+    "filename": "SensorMount.stl"
+  },
+  {
     "name": "Reef Camera Internal Mount",
     "description": "Not used for the internals of the pipe buoy, but rather for the reef camera. This part is used to correctly orient the USB Camera inside of the GoPro housing.",
     "image": "./thumbnails/ReefCameraInternalMount.png",
