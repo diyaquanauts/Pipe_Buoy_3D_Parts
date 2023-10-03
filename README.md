@@ -28,6 +28,11 @@ Always make sure to pull the latest before starting a new build.
 <a href="./ShortyStrap.stl"><img src="./thumbnails/ShortyStrap.png" width="175" alt="Shorty Strap" title="Shorty Strap" align="left" style="margin-right:20px"></a>This part is used to hold 2S 'shorty' batteries to the generic module.<br><sub>**Filename:** <a href="./ShortyStrap.stl">ShortyStrap.stl</a></sub><br><sub>**Drawn By:** Brett Smith</sub>
 
 <br><br><br>
+## Sensor Internal Mount
+
+<a href="./SensorMount.stl"><img src="./thumbnails/SensorMount.png" width="175" alt="Sensor Internal Mount" title="Sensor Internal Mount" align="left" style="margin-right:20px"></a>A small mounting module for the BNO055, BMP280, 2x EZO Isolated Carrier Boards, and a generic AD620 instrumentation amplifier for the hydrophone.<br><sub>**Filename:** <a href="./SensorMount.stl">SensorMount.stl</a></sub><br><sub>**Drawn By:** Brett Smith</sub>
+
+<br><br><br>
 ## Reef Camera Internal Mount
 
 <a href="./ReefCameraInternalMount.stl"><img src="./thumbnails/ReefCameraInternalMount.png" width="175" alt="Reef Camera Internal Mount" title="Reef Camera Internal Mount" align="left" style="margin-right:20px"></a>Not used for the internals of the pipe buoy, but rather for the reef camera. This part is used to correctly orient the USB Camera inside of the GoPro housing.<br><sub>**Filename:** <a href="./ReefCameraInternalMount.stl">ReefCameraInternalMount.stl</a></sub><br><sub>**Drawn By:** Brett Smith</sub>
