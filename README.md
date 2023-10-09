@@ -38,3 +38,8 @@ Always make sure to pull the latest before starting a new build.
 <a href="./ReefCameraInternalMount.stl"><img src="./thumbnails/ReefCameraInternalMount.png" width="175" alt="Reef Camera Internal Mount" title="Reef Camera Internal Mount" align="left" style="margin-right:20px"></a>Not used for the internals of the pipe buoy, but rather for the reef camera. This part is used to correctly orient the USB Camera inside of the GoPro housing.<br><sub>**Filename:** <a href="./ReefCameraInternalMount.stl">ReefCameraInternalMount.stl</a></sub><br><sub>**Drawn By:** Brett Smith</sub>
 
 <br><br><br>
+## Hydrophone Mold
+
+<a href="./HydrophoneMold.stl"><img src="./thumbnails/HydrophoneMold.png" width="175" alt="Hydrophone Mold" title="Hydrophone Mold" align="left" style="margin-right:20px"></a>Used to create a mold for the hydrophone. Resin printing is not preferred for this part. A silicone mold is preferred. <br><sub>**Filename:** <a href="./HydrophoneMold.stl">HydrophoneMold.stl</a></sub><br><sub>**Drawn By:** Brett Smith</sub>
+
+<br><br><br>
